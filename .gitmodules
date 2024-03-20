@@ -1,0 +1,12 @@
+[submodule "BootcampEs1"]
+	path = BootcampEs1
+	url = https://github.com/katiuska23/BootcampEs1.git
+[submodule "BootcampEs2"]
+	path = BootcampEs2
+	url = https://github.com/katiuska23/BootcampEs2.git
+[submodule "BootcampEs3"]
+	path = BootcampEs3
+	url = https://github.com/katiuska23/BootcampEs3.git
+[submodule "BootcampEs4"]
+	path = BootcampEs4
+	url = https://github.com/katiuska23/BootcampEs4.git
